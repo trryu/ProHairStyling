@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/ProHairStyling/static/media/ladylink.b3f325d2.png"
   },
   {
-    "revision": "9abc0b3657f0c6b4a2b7",
+    "revision": "9bf11ace2e8e1f2c0510",
     "url": "/ProHairStyling/static/css/main.60c761f1.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/ProHairStyling/static/js/2.34f2dacd.chunk.js"
   },
   {
-    "revision": "9abc0b3657f0c6b4a2b7",
-    "url": "/ProHairStyling/static/js/main.9abc0b36.chunk.js"
+    "revision": "9bf11ace2e8e1f2c0510",
+    "url": "/ProHairStyling/static/js/main.9bf11ace.chunk.js"
   },
   {
     "revision": "ee56bdd075900caa34e92b0e4442a9ed",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/ProHairStyling/static/css/2.bc7f1611.chunk.css"
   },
   {
-    "revision": "b51243b45620b51d17c080ffd8c6871a",
+    "revision": "e42e54734f20feb6646a75d80d3700d2",
     "url": "/ProHairStyling/index.html"
   }
 ];

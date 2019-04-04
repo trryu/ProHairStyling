@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ProHairStyling/precache-manifest.55ef067323e37c1eccb2fcf44a711edb.js"
+  "/ProHairStyling/precache-manifest.71d321a5b2c60e5f7fc3bc6a4a698b41.js"
 );
 
 workbox.clientsClaim();

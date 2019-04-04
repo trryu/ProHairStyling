@@ -1,16 +1,19 @@
 {
-  "main.css": "/ProHairStyling/static/css/main.0c593b5e.chunk.css",
-  "main.js": "/ProHairStyling/static/js/main.37d15e02.chunk.js",
-  "main.js.map": "/ProHairStyling/static/js/main.37d15e02.chunk.js.map",
+  "main.css": "/ProHairStyling/static/css/main.3bae885d.chunk.css",
+  "main.js": "/ProHairStyling/static/js/main.991c1d39.chunk.js",
+  "main.js.map": "/ProHairStyling/static/js/main.991c1d39.chunk.js.map",
   "runtime~main.js": "/ProHairStyling/static/js/runtime~main.a8760bc2.js",
   "runtime~main.js.map": "/ProHairStyling/static/js/runtime~main.a8760bc2.js.map",
   "static/css/2.bc7f1611.chunk.css": "/ProHairStyling/static/css/2.bc7f1611.chunk.css",
-  "static/js/2.7f14b911.chunk.js": "/ProHairStyling/static/js/2.7f14b911.chunk.js",
-  "static/js/2.7f14b911.chunk.js.map": "/ProHairStyling/static/js/2.7f14b911.chunk.js.map",
+  "static/js/2.773ce124.chunk.js": "/ProHairStyling/static/js/2.773ce124.chunk.js",
+  "static/js/2.773ce124.chunk.js.map": "/ProHairStyling/static/js/2.773ce124.chunk.js.map",
   "index.html": "/ProHairStyling/index.html",
-  "precache-manifest.75b1b4a920875a0ad4a23d27d16717a3.js": "/ProHairStyling/precache-manifest.75b1b4a920875a0ad4a23d27d16717a3.js",
+  "precache-manifest.55ef067323e37c1eccb2fcf44a711edb.js": "/ProHairStyling/precache-manifest.55ef067323e37c1eccb2fcf44a711edb.js",
   "service-worker.js": "/ProHairStyling/service-worker.js",
   "static/css/2.bc7f1611.chunk.css.map": "/ProHairStyling/static/css/2.bc7f1611.chunk.css.map",
-  "static/css/main.0c593b5e.chunk.css.map": "/ProHairStyling/static/css/main.0c593b5e.chunk.css.map",
-  "static/media/card.png": "/ProHairStyling/static/media/card.1e39527a.png"
+  "static/css/main.3bae885d.chunk.css.map": "/ProHairStyling/static/css/main.3bae885d.chunk.css.map",
+  "static/media/boylink.png": "/ProHairStyling/static/media/boylink.c21b8724.png",
+  "static/media/girllink.png": "/ProHairStyling/static/media/girllink.62f44cda.png",
+  "static/media/ladylink.png": "/ProHairStyling/static/media/ladylink.b3f325d2.png",
+  "static/media/manlink.png": "/ProHairStyling/static/media/manlink.ee56bdd0.png"
 }
